@@ -1,0 +1,30 @@
+section {
+			padding: 25px;
+			border: 1px solid;
+			margin: 20px;
+			width: 600px;
+			background-color: gray
+
+		}
+	
+h1 {
+			font-family: serif font;
+			font-size: 35px;
+		}
+p {
+			font-family: serif-font;
+
+		}
+.letra1 {
+			font-family: sans-serif;
+		}
+.letra2 {
+			font-family: monospace;
+			font-size: 20px;
+		}
+.letra3 {
+			font-family: cursive;
+		}
+.letra4 {
+			font-family: fantasy;
+		}

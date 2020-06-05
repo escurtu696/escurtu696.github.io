@@ -1,0 +1,13 @@
+section {
+			padding: 25px;
+			border: 1px solid;
+			margin: 20px;
+			width: 700px;
+			background-color: gray;
+
+		}
+.letra1 {
+    font-family: verdana;
+	font-style: italic;
+	font-size: 1.2em;
+}

@@ -1,0 +1,31 @@
+p {
+			width: 500px;
+			padding: 25px;
+			margin: 25px;
+			border: 2px solid blue;
+			color: blue;
+
+		}
+		.p1 {
+			width: 500px;
+			padding: 25px;
+			margin: 25px;
+			border: solid 2px green;
+			color: blue;
+		}
+		.p2 {
+			width: 500px;
+			padding: 25px;
+			margin: 25px;
+			border-top: 2px solid purple;
+			border-bottom: solid 2px red;
+			border-right: solid 2px green;
+			border-left: solid 2px gray;
+		}
+		.p3 {
+			width: 500px;
+			padding: 25px;
+			margin: 25px;
+			border: dotted yellow;	
+
+		}

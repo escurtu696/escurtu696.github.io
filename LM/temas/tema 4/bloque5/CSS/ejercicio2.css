@@ -1,0 +1,13 @@
+.box1{
+                border : solid green;
+                margin-bottom : 20px;
+                width : 250px;
+                height : 100px;
+}
+
+          .box2{
+                border : solid green;
+                border-collapse : collapse; 
+                width : 250px;
+                height : 100px;
+}

@@ -1,0 +1,12 @@
+p:first-letter {
+color: red;
+font-size: xx-large
+}
+section {
+			padding: 25px;
+			border: 1px solid;
+			margin: 20px;
+			width: 600px;
+			background-color: gray
+
+		}

@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<personas xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+                  xsi:noNamespaceSchemaLocation="personas.xsd">
+
+<persona>
+  <nombre>Eva</nombre>
+  <edad>25</edad>
+  <pais>Francia</pais>
+  <telefono>999888777</telefono>
+</persona>
+
+<persona>
+  <nombre>Giovanni</nombre>
+  <edad>23</edad>
+  <pais>Italia</pais>
+  <telefono>111222444</telefono>
+</persona>
+
+</personas>

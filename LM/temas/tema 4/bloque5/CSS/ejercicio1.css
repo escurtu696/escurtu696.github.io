@@ -1,0 +1,24 @@
+.borde1 {
+               border-style: dashed; 
+                padding: 50px;
+                margin:50px;
+                background-color: blueviolet;
+            }
+            .borde2 {
+               border-style: dotted; 
+                padding: 50px;
+                margin:50px; 
+                background-color: pink;
+            } 
+            .borde3 {
+                border-style: double;
+                padding: 50px;
+                margin:50px;
+                background-color: yellow;
+            }
+            .borde4 {
+                border-style: groove; 
+                padding: 50px;
+                margin:50px;
+                background-color: green;
+            }

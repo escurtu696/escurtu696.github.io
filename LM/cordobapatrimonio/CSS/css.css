@@ -1,0 +1,71 @@
+body { 
+  display: grid;
+  grid-template-areas: 
+    "header header ads"
+    "nav article article"
+    "nav footer footer";
+  grid-template-rows: 80px 1fr 70px;  
+  grid-template-columns: 20% 1fr 15%;
+  grid-row-gap: 10px;
+  grid-column-gap: 10px;
+  height: 100vh;
+  margin: 0;
+  background-color: lightblue;
+  font-family:"Helvetica";
+}
+h1{
+    font-family: 'Dancing Script', cursive;
+    font-size: 40px;
+}
+header, footer, article, nav, div {
+  padding: 1.2em;
+  background: grey;
+}
+#c1 {
+  grid-area: header;
+  background-color: lightblue;
+}
+#c2 { 
+  grid-area: article;   
+  background-color: lightblue;
+}
+#c3 {
+    float: right;
+    width: 12%;
+    grid-area: nav;
+    background-color: lightblue;
+}
+
+#c3 a{
+    padding: 10px;
+    margin: 4px;
+    margin-bottom: 5px;
+    display: block;
+    width: 150%;
+    background-color: rgb(161, 221, 161);
+    color: black;
+    border: 1px solid rgb(170, 223, 140);
+    border-radius: 20px;
+    text-decoration: none;
+    grid-area: nav;
+    background-color: aquamarine;
+}
+
+#c3 a:hover {
+    background-color: rgb(112, 153, 112);
+    grid-area: nav;
+background-color: lightblue;
+}
+#c5 {
+  grid-area: footer;
+  background-color: lightblue;
+}
+@media (max-width: 1000px) {
+    body nav ul li{
+     display: block;
+     font-size: 16px;
+ }
+ body {
+     font-size: 30px;
+ }
+}

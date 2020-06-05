@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<monarquias>
+    <pais>
+        <nombre>Francia</nombre>
+        <capital>Paris</capital>
+    </pais>
+    <pais>
+        <nombre>Gran Bretaña</nombre>
+        <capital>Londres</capital>
+        <reina>Isabel II</reina>
+    </pais>
+    <pais>
+        <nombre>Noruega</nombre>
+        <capital>Oslo</capital>
+        <reina>Sonia</reina>
+        <rey>Ragnar</rey>
+    </pais>
+</monarquias>

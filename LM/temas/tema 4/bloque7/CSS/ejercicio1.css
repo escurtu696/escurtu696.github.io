@@ -1,0 +1,6 @@
+.box {
+                 font-size: 5vw;
+  padding: 10vw;
+  border: solid;
+  background: repeating-radial-gradient(circle, yellow 20%, purple 40%);
+            }

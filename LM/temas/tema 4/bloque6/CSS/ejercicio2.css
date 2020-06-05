@@ -1,0 +1,15 @@
+ body {
+                background-color: grey;
+            }
+            .box {
+                background-color: white;
+                padding: 50px ;
+                margin: 50px;
+                border: 2px;
+                width: 600px;
+                height: 300px;
+                text-align: center;
+                box-shadow: 0px 5px black;
+                font-size: 50px;
+                
+            }

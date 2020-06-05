@@ -1,0 +1,12 @@
+ div {
+                  width: 100px;
+                  height: 100px;
+                  background: red;
+                  transition: background 2s, transform 2s;
+}
+
+               div:hover {
+                  background:blue;
+                   transform: rotate(180deg);
+                 
+}

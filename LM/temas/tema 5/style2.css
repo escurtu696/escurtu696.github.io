@@ -1,0 +1,10 @@
+#caja {
+    background-color: cornsilk;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+
+#telefono {
+    padding: 10px;
+}

@@ -1,0 +1,10 @@
+ body {
+background-image: url('1.html');            
+}
+            
+.box {
+                 font-size: 5vw;
+    padding: 10vw;
+    border: solid;
+    background: linear-gradient(blue, transparent, purple);
+}

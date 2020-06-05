@@ -1,0 +1,15 @@
+.box {
+			text-align: center;
+            width: 500px;
+			padding: 125px;
+			margin: 25px;
+			border: 10px double grey;
+			font-size: 25px;
+            background-image: url(img/flores.jpg);
+            position: relative;
+            opacity: 0.5;
+            background-position: center;
+            
+
+		}
+		

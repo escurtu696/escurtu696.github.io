@@ -1,0 +1,69 @@
+ div {
+                margin-left : 30px;
+                border : 2px solid green;
+                border-radius: 5px;
+                width : 20vw;
+                height: 20vh;
+                float : left;
+                margin: 4vh;
+            }
+            .border1{
+               
+                border-radius : 5px;
+                
+
+
+            }
+            .border2 {
+                
+                border-radius : 5px;
+                
+
+            }
+            .border3 {
+                
+                border-radius : 15px;
+                
+            }
+            .border4 {
+                
+                border-radius : 5px;
+                
+
+            }
+            .border5 {
+               
+                border-radius : 5px;
+               
+               
+
+            }
+            .border6 {
+                
+                border-radius : 5px;
+                
+
+            }
+            .border7 {
+                
+                border-radius : 200px;
+               
+
+            }
+            .border8 {
+                
+                border-radius : 5px;
+                
+
+            }
+            .border9 {
+               
+                border-radius : 20px 40px;
+                
+
+            }
+            footer {
+                 clear:both;
+            }
+            
+        

@@ -1,0 +1,27 @@
+p {
+			width: 500px;
+			padding: 25px;
+			margin: 25px;
+            outline: dotted orange;
+			border: 2px solid black;
+			color: blue;
+			outline: 
+
+		}
+		.p1 {
+			width: 500px;
+			padding: 25px;
+			margin: 25px;
+            outline: dotted green;
+			border: solid 2px black;
+			color: blue;
+		}
+	
+		.p2 {
+			width: 500px;
+			padding: 25px;
+			margin: 25px;
+            outline: dotted yellow;
+			border: solid 2px black;
+
+		}

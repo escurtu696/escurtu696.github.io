@@ -1,0 +1,42 @@
+body {
+    display: grid;
+    grid-template-areas: 
+        "header header header"
+        "nav article ads"
+        "footer footer footer";
+    grid-template-rows: 50px 1fr 50px;
+    grid-template-columns: 20% 1fr 15%;
+    grid-gap: 5px;
+    height: 100vh;
+    margin: 0;
+}
+
+header, footer, article, nav, div {
+    padding: 15px;
+    background-color: yellow;
+}
+
+#header {
+    grid-area: header;
+    background-color: red;
+}
+
+#footer {
+    grid-area: footer;
+    background-color: red;
+}
+
+#article {
+    grid-area: article;
+    background-color: yellowgreen;
+}
+
+#nav {
+    grid-area: nav;
+    background-color: purple;
+}
+
+#aside {
+    grid-area: ads;
+    background-color: aqua
+}
