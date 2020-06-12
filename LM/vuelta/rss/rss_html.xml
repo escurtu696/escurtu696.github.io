@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<rss>
+	<channel>
+		<item>
+			<title>Ejemplo IES Gran Capitan HTML</title>
+			<link>http://www.iesgrancapitan.org</link>
+			<description>Ejercicio Ejemplo</description>
+		</item>
+		<item>
+			<title>Ejercicio 1</title>
+			<link>https://escurtu696.github.io/escurtu696.github.io/escurtu696.github.io/LM/temas/tema%204/bloque4/ejercicio3.html</link>
+			<description>Ejercicio 1</description>
+		</item>
+		<item>
+			<title>Ejercicio 2</title>
+			<link>https://github.com/escurtu696/escurtu696.github.io/escurtu696.github.io/LM/temas/tema%204/bloque6/ejercicio2.html</link>
+			<description>Ejercicio 2</description>
+		</item>
+		<item>
+			<title>Ejercicio 3</title>
+			<link>https://github.com/escurtu696/escurtu696.github.io/escurtu696.github.io/LM/temas/tema%204/bloque9/ejercicio2.html</link>
+			<description>Ejercicio 3</description>
+		</item>
+		<item>
+			<title>Ejercicio 4</title>
+			<link>https://github.com/escurtu696/escurtu696.github.io/escurtu696.github.io/LM/temas/tema%205/ejercicio3.html</link>
+			<description>Ejercicio 4</description>
+		</item>
+	</channel>
+</rss>
