@@ -1,0 +1,74 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="Vuelta.xsl"?>
+<etapas xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="Vuelta.xsd">
+  <etapa id="Uno">
+      <origen>Pekin.</origen>
+      <destino>Budapest.</destino>
+      <f-inicio>14/06/2020</f-inicio>
+      <f-fin>20/06/2020</f-fin>
+      <m-transporte>Tren, coche y avión.</m-transporte>
+      <foto>img/pekin.jpg</foto>
+      <descripcion>Salimos desde Pekin con un tren hasta llegar a la ciudad de Shaanxi, allí podremos encontrar a los famosos guerreros de terracota
+        en esa parada nos hospedamos en un hotel de la zona, nos despertamos con un gran desayuno. Partimos sobre las 12 en coche y fuimos día tras día recorriendo
+        gran parte del país chino, tras unos cuántos días de viaje por fin llegamos a la ciudad de Lhasa para coger un avión y ponernos rumbo a Budapest, una
+        esplendida ciudad europea.</descripcion>
+  </etapa>
+  <etapa id="Dos">
+      <origen>Budapest.</origen>
+      <destino>Roma.</destino>
+      <f-inicio>20/06/2020</f-inicio>
+      <f-fin>24/06/2020</f-fin>
+      <m-transporte>Coche.</m-transporte>
+      <foto>img/budapest.jpg</foto>
+      <descripcion>Llegamos a Budapest por la mañana, fuimos a visitar la espléndida ciudad por la que pasa el Danubio, el segundo río más largo de europa.
+      Tras eso nos montamos en el coche y empezamos nuestro viaje hasta Roma la ciudad del Coliseo, para llegar allí decidimos parar en Venecia, la ciudad de los 
+      canales, allí pudimos ver el famoso puente Rialto un emblema de Venecia. Tras unas cuantas horas de viaje, llegamos a Roma allí fuimos a tomarnos una pizza
+      Margherita, típica italiana y tras un día en la ciudad nos dirigimos hacia Dublín.</descripcion>
+  </etapa>
+  <etapa id="Tres">
+      <origen>Roma.</origen>
+      <destino>Dublin.</destino>
+      <f-inicio>24/06/2020</f-inicio>
+      <f-fin>26/06/2020</f-fin>
+      <m-transporte>Coche, avión.</m-transporte>
+      <foto>img/roma.jpg</foto>
+      <descripcion>Nos montamos en el avión y tuvimos escala de un día en Londres, allí bajamos, salimos del aeropuerto y nos decidimos visitar un poco la ciudad, vimos
+      el London Eye, el Big Ben y tomamos el típico plato inglés fish and chips. Al día siguiente fuimos al aeropuerto para tomar el avión hacia Dublin.</descripcion>
+  </etapa>
+  <etapa id="Cuatro">
+      <origen>Dublin.</origen>
+      <destino>Miami.</destino>
+      <f-inicio>26/06/2020</f-inicio>
+      <f-fin>29/06/2020</f-fin>
+      <m-transporte>Coche, avión.</m-transporte>
+      <foto>img/dublin.jpg</foto>
+      <descripcion>Al llegar a Dublin, nos paramos para visitar el casco antiguo de la ciudad, y luego cogimos el coche para llegar a la ciudad de Belfast, al llegar allí 
+      nos paramos para visitar algunos sitios de interés. Tras pasar la noche en un hotel, bajo mi punto de vista el mejor hotel que he ido en toda mi vida y con un desayuno 
+      bestial, fuimos hacia Glasgow, capital de Escocia, allí cogimos un avión hacia Miami.</descripcion>
+  </etapa>
+  <etapa id="Cinco">
+      <origen>Miami.</origen>
+      <destino>Los Angeles.</destino>
+      <f-inicio>29/06/2020</f-inicio>
+      <f-fin>03/07/2020</f-fin>
+      <m-transporte>Coche.</m-transporte>
+      <foto>img/angeles.jpg</foto>
+      <descripcion>Al llegar a Miami lo primero que hicimos fue ir a la playa, luego partimos hacia Kentucky para probar el autentico pollo frito, luego nos dirijimos
+      hacia la mítica ruta 66 que recorre los Estados Unidos de este a oeste, nos fuimos parando poco a poco en todas las ciudade estadounidenses para así llegar
+      Las Vegas. En la ciudad de los casinos fuimos a probar un poco nuestra suerte, jugamos al póker y a la ruleta, como era de esperar perdimos dinero. Al llegar
+      a Los Ángeles fuimos a ver el mítico cartel de Hollywood, luego fuimos al pier de Santa Mónica, tras echar toda la mañana en Los Ángeles partimos en crucero
+      hacía Hawai.</descripcion>
+  </etapa>
+  <etapa id="Seis">
+      <origen>Los Angeles.</origen>
+      <destino>Sidney.</destino>
+      <f-inicio>03/07/2020</f-inicio>
+      <f-fin>11/07/2020</f-fin>
+      <m-transporte>Crucero, avión.</m-transporte>
+      <foto>img/sidney.jpg</foto>
+      <descripcion>Cogimos el crucero hacia Hawai, aqui no hay que relatar mucho ya que era un cruceo, era como una ciudad en miniatura y compacta, al llegar a Honolulu
+      nos quedamos un día para ver la ciudad. Después cogimos un vuelo hacía Christchurch allí visitamos la ciudad y cogimos otro crucero hacía Sidney, último destino
+      de nuestro viaje, en Sidney tras visitarla cogimos el vuelo hacía Madrid, despidiendonos de nuestro viaje.</descripcion>
+  </etapa>
+</etapas>

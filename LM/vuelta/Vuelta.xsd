@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<xs:schema attributeFormDefault="qualified" elementFormDefault="qualified" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+  <xs:element name="etapas">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element name="etapa" minOccurs="0" maxOccurs="unbounded" >
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element type="xs:string" name="origen"/>
+              <xs:element type="xs:string" name="destino"/>
+              <xs:element type="xs:string" name="f-inicio"/>
+              <xs:element type="xs:string" name="f-fin"/>
+              <xs:element type="xs:string" name="m-transporte"/>
+              <xs:element type="xs:string" name="foto"/>
+              <xs:element type="xs:string" name="descripcion"/>
+            </xs:sequence>
+            <xs:attribute type="xs:string" name="id" use="required"/>
+          </xs:complexType>
+        </xs:element>
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>
