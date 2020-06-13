@@ -1,30 +1,71 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <rss>
 	<channel>
+		<title>Primero una introducción de las ciudades en la Wikipedia.</title>
 		<item>
-			<title>Ejemplo IES Gran Capitan HTML</title>
-			<link>http://www.iesgrancapitan.org</link>
-			<description>Ejercicio Ejemplo</description>
+			<title>Pekín</title>
+			<link>https://es.wikipedia.org/wiki/Pek%C3%ADn</link>
+			<description>Información de Pekín</description>
 		</item>
 		<item>
-			<title>Ejercicio 1</title>
-			<link>https://escurtu696.github.io/escurtu696.github.io/escurtu696.github.io/LM/temas/tema%204/bloque4/ejercicio3.html</link>
-			<description>Ejercicio 1</description>
+			<title>Budapest</title>
+			<link>https://es.wikipedia.org/wiki/Budapest</link>
+			<description>Información de Budapest</description>
 		</item>
 		<item>
-			<title>Ejercicio 2</title>
-			<link>https://github.com/escurtu696/escurtu696.github.io/escurtu696.github.io/LM/temas/tema%204/bloque6/ejercicio2.html</link>
-			<description>Ejercicio 2</description>
+			<title>Roma</title>
+			<link>https://es.wikipedia.org/wiki/Roma</link>
+			<description>Información de Roma</description>
 		</item>
 		<item>
-			<title>Ejercicio 3</title>
-			<link>https://github.com/escurtu696/escurtu696.github.io/escurtu696.github.io/LM/temas/tema%204/bloque9/ejercicio2.html</link>
-			<description>Ejercicio 3</description>
+			<title>Dublín</title>
+			<link>https://es.wikipedia.org/wiki/Dubl%C3%ADn</link>
+			<description>Información de Dublín</description>
 		</item>
 		<item>
-			<title>Ejercicio 4</title>
-			<link>https://github.com/escurtu696/escurtu696.github.io/escurtu696.github.io/LM/temas/tema%205/ejercicio3.html</link>
-			<description>Ejercicio 4</description>
+			<title>Miami</title>
+			<link>https://es.wikipedia.org/wiki/Miami</link>
+			<description>Información de Miami</description>
+		</item>
+		<item>
+			<title>Los Ángeles</title>
+			<link>https://es.wikipedia.org/wiki/Los_%C3%81ngeles</link>
+			<description>Información de Los Ángeles</description>
+		</item>
+		<item>
+			<title>Sidney</title>
+			<link>https://es.wikipedia.org/wiki/S%C3%ADdney</link>
+			<description>Información de Sidney</description>
+		</item>
+		<item>
+			<title>Etapa 1</title>
+			<link>https://escurtu696.github.io/LM/vuelta/Vuelta.xml</link>
+			<description>Primera parte de nuestro fabuloso viaje</description>
+		</item>
+		<item>
+			<title>Etapa 2</title>
+			<link>https://escurtu696.github.io/LM/vuelta/Vuelta.xml</link>
+			<description>Segunda parte de nuestro fabuloso viaje</description>
+		</item>
+		<item>
+			<title>Etapa 3</title>
+			<link>https://escurtu696.github.io/LM/vuelta/Vuelta.xml</link>
+			<description>Tercera parte de nuestro fabuloso viaje</description>
+		</item>
+		<item>
+			<title>Etapa 4</title>
+			<link>https://escurtu696.github.io/LM/vuelta/Vuelta.xml</link>
+			<description>Cuarta parte de nuestro fabuloso viaje</description>
+		</item>
+		<item>
+			<title>Etapa 5</title>
+			<link>https://escurtu696.github.io/LM/vuelta/Vuelta.xml</link>
+			<description>Quinta parte de nuestro fabuloso viaje</description>
+		</item>
+		<item>
+			<title>Etapa 6</title>
+			<link>https://escurtu696.github.io/LM/vuelta/Vuelta.xml</link>
+			<description>Sexta parte de nuestro fabuloso viaje</description>
 		</item>
 	</channel>
 </rss>
